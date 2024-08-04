@@ -13,6 +13,7 @@ const PoemDisplay = () => {
     "canvi.",
 
     "- m'hauré d'esperar a ser mare",
+    "",
     "Rupi Kaur (Llet i Mel - 2015)"
   ];
 

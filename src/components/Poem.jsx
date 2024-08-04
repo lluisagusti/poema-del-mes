@@ -1,5 +1,5 @@
 import React from 'react';
-import rupiKaurImage from './author.png';
+import poemAuthorImage from './author.png';
 
 
 const PoemDisplay = () => {
@@ -20,7 +20,7 @@ const PoemDisplay = () => {
     <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-b from-gray-100 to-gray-200 p-4">
       <div className="w-full max-w-md overflow-hidden shadow-lg bg-white rounded-lg">
         <img
-          src={rupiKaurImage}
+          src={poemAuthorImage}
           alt="Poem Author"
           className="w-full h-auto"
         />
